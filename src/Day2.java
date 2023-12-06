@@ -1,8 +1,7 @@
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Arrays;
-import java.util.regex.*;
-import java.net.StandardSocketOptions;
+
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Scanner;
